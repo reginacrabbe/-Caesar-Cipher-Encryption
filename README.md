@@ -19,3 +19,6 @@ To encrypt a plaintext message, run the `caesar_cipher_encrypt` function in the 
 
 - Encryption of plaintext messages using the Caesar Cipher technique
 - Customizable key value for shifting the letters
+
+## Author
+Regina Naa Dedei Crabbe
